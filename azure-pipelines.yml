@@ -16,4 +16,4 @@ steps:
       api_location: "api"
       output_location: "build"
     env:
-      azure_static_web_apps_api_token: $(c11e9c85998ec8a127f59b6c8f0924ba17578050e8b555739d38f72808f58232-5106fa49-e558-4859-b9aa-b9a994fb227901e7746)
+      azure_static_web_apps_api_token: $(deployment_token)
